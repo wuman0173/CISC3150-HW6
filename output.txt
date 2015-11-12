@@ -1,0 +1,9 @@
+Javac Calculator 5.0
+Javac Calculator 2.5
+Javac Calculator Calculator$ArithmiticException: DIVIDING BY ZERO IS BAD
+Javac Calculator -2.0
+Javac Calculator 25.0
+Javac Calculator 2.0
+Javac Calculator Calculator$NotANumberException: OMG! You didn't put in a Number, do eet again.
+Javac Calculator Calculator$IllegalOperationException: You baddie. Wrong Math Operator. Use +, -, /, *, or %
+Javac Calculator Calculator$NotEnoughNumbersException: WTF not enough numbers!
