@@ -6,6 +6,6 @@ EX. 1 + 1
 
 NOT EX. 1+1
 
-Difficulties: Tripping the NotEnoughNumbersException. More info in java file. (NOT SOLVED)
+Difficulties:  Getting the NotEnoughNumbersException to work. More info in java file. (NOT SOLVED)
 
 PS: Did not overload functions to allow integer arthimitic + answers.
